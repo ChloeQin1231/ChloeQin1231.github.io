@@ -1,0 +1,27 @@
+.project-box {
+    margin: 20px auto;
+    width: 60%;
+    border: 2px solid #b7bcbe;
+    border-radius: 15px;
+    padding: 20px 50px;
+    color: #b7bcbe;
+}
+
+.project-item{
+    margin-left: 100px;
+    margin-top: 20px;
+}
+
+.project-item:nth-child(1){
+    margin-top: 0;
+}
+
+.project-item .title{
+    font-size: 30px;
+    font-weight: bolder;
+}
+
+.project-item .description{
+    font-size: 15px;
+    font-weight: lighter;
+}
